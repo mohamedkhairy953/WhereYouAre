@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhereYouAre1</string>
+    <string name="Button_text">send my location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ask_him_to_sen_his_location">Ask him to send his location</string>
+    <string name="name">name</string>
+    <string name="select_from_your_contacts">select from your contacts</string>
+</resources>
